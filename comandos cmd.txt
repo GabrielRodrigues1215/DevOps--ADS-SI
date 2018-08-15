@@ -1,0 +1,10 @@
+git --version(para ver a versão)
+------------------------------------------------
+dir - listar o conteúdo 
+cls - limpar a tela 
+cd [nome da pasta] - abre a pasta,
+cd.. - volta para pasta anterior
+cd\ - fecha todas as pastas 
+md [nome da pasta] - criar pasta
+
+git clone  [link do diretorio](faz um clone em alguma pasta)
